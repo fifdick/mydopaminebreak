@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="permission_required">Usage access permission required</string>
+    <string name="permission_rationale">FocusGuard needs usage access to detect aimless app-switching. Tap to open Settings.</string>
+    <string name="monitoring_active">Monitoring active</string>
+    <string name="monitoring_description">FocusGuard is watching for aimless switching</string>
+    <string name="open_app">Open app</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="alert_dismiss">I\'M DONE — PUT IT DOWN</string>
+    <string name="service_channel_name">FocusGuard Monitor</string>
+    <string name="service_channel_description">Keeps FocusGuard running in the background</string>
+</resources>
